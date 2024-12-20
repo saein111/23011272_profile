@@ -1,0 +1,52 @@
+
+body{
+    
+    max-width: 800px;
+    padding: 10px 0;
+}
+
+.profile{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    background-color: antiquewhite;
+    padding: auto;
+}
+
+.flex2{
+    padding-right: 10px;
+}
+.edu{
+    border-style: dashed;
+    border-color: yellow;
+    background-color: lightgoldenrodyellow;
+}
+
+.edu h1{
+    background-color: antiquewhite;
+}
+
+.edu h2{
+    background-color: aquamarine;
+}
+.edu .p3 p{
+    text-align: justify;
+}
+.pro{
+    border-style: dashed;
+    border-color: yellow;
+    background-color: lightblue;
+}
+.pro h1{
+    background-color: antiquewhite;
+}
+
+.tech{
+    border-style: dashed;
+    border-color: yellow;
+    background-color: lightgrey;
+}
+.tech h1{
+    background-color: antiquewhite;
+}
+
